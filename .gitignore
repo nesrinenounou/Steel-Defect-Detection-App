@@ -1,0 +1,9 @@
+﻿node_modules/
+venv/
+.venv/
+__pycache__/
+.idea/
+*.pyc
+dist/
+.env
+sam2*.pt
