@@ -16,4 +16,4 @@ SAM2 (`sam2.1_t.pt`) is downloaded automatically by ultralytics on first run.
 
 ## Training
 The model was trained on Kaggle. See `training/steel-defect-training.ipynb`.
-Dataset: NEU-DET (link to Kaggle).
+Dataset: NEU-DET ,tow dataset one for clasification https://www.kaggle.com/datasets/muamarjasim/neu-metal-surface-defect-dataset and second database fore yplo+sam2 https://www.kaggle.com/datasets/muamarjasim/neu-metal-surface-defect-dataset.
